@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is some kewl text.
+:+1: Looking good! :fire:
 Use the left arrow to go back!
